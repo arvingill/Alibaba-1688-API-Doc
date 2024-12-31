@@ -1,0 +1,1345 @@
+{
+  "code": 0,
+  "credits": 0.005,
+  "result": {
+    "desc_wdescContent": {},
+    "detailModel": {
+      "detailUrl": "https://air.1688.com/pages/od/app-desc/d7p56fw2w/index.html?url=https://itemcdn.tmall.com/1688offer/icoss2756731744798ea260b7a7df5d&offerId=640545040750&sellerLoginId=江城五金50049",
+      "h5DataModel": {
+        "picPrivateNoAuth": "false"
+      },
+      "offerId": "640545040750"
+    },
+    "filterModel": null,
+    "freightModel": {
+      "deliveryFee": "TEMPLATED",
+      "deliveryLimit": "2",
+      "freeDeliverFee": "false",
+      "freeEndAmount": "-1",
+      "location": "浙江省金华市",
+      "locationCode": "12554778",
+      "locationDivisionCode": "330784",
+      "logisticsText": "承诺48小时发货",
+      "officialLogistics": "false",
+      "skuWeight": {},
+      "subTemplateId": "3040257",
+      "totalCost": 57,
+      "unitWeight": 50
+    },
+    "globalData": {
+      "abTestInfo": {
+        "abTestValueInfo": {
+          "page_dsc_xhdz_upgrade": "1",
+          "page_yanxuan_qualityCert": "Y",
+          "page_zgc_dimension": "1"
+        },
+        "exposeClickInfo": {},
+        "pvTrackInfo": {
+          "AbIds": "2515414#2517406"
+        }
+      },
+      "exposeInfo": {
+        "exposeArgs": {
+          "channelType": "dsc",
+          "ipvId": "213e1f6217093760232601028e1c5a",
+          "isPlusMember": "false",
+          "isYanxuanOffer": "false",
+          "offerId": "640545040750",
+          "sceneType": "default",
+          "verticalType": "default"
+        }
+      },
+      "offerModelSign": {
+        "hasFreightTemplate": "true",
+        "hasOrder": "true",
+        "hasSearchPicture": "true",
+        "hasSendGoodsAddress": "true",
+        "hasWhitePicInOffer": "true",
+        "isAegisTrade": "true",
+        "isAlipaySupported": "true",
+        "isAllPlusOffer": "true",
+        "isBuyerProtection": "true",
+        "isCBDistribution": "true",
+        "isConsignMarketOffer": "true",
+        "isCrossBorderOffer": "true",
+        "isFxPlusOffer": "true",
+        "isGovCouponOfferInOD": "false",
+        "isGpfOffer": "true",
+        "isOnePsale": "true",
+        "isOpenOffer": "true",
+        "isPlusOffer": "true",
+        "isPromoted": "true",
+        "isPublishFeed": "true",
+        "isRangePriceSku": "true",
+        "isSearchOffer": "true",
+        "isSsbxsfh": "true",
+        "isSupportMix": "true",
+        "isSupportReserve": "true",
+        "isSupportStock": "true",
+        "isSupportVideo": "true",
+        "isTbDistributionOffer": "true",
+        "isToKuaiShou": "true",
+        "isToTikTok": "true",
+        "isWeChatSupply": "true",
+        "isWholesaleOffer": "true",
+        "isZeroWholesaleOffer": "true"
+      },
+      "offerSign": {
+        "hasBusinessPrice": "false",
+        "hasJoinBusinessPrice": "false",
+        "hasRelationOffer": "true",
+        "isChtSingleOffer": "false",
+        "isConsignMarketOffer": "true",
+        "isDetailForbidden": "false",
+        "isDistribution": "true",
+        "isOfferSupportOnlineTrade": "true",
+        "isOnlyNPorcessingOffer": "false",
+        "isPreSaleOffer": "false",
+        "isPreSell": "false",
+        "isSkuOffer": "true",
+        "isVirtualCategory": "false",
+        "preHeatOfferCanTrade": "true",
+        "stockReserveLightOffer": "true"
+      },
+      "stockProcessingInfo": {
+        "skuLinkUrl": "https://air.1688.com/pages/od/1688-drawer-layout/dw4m6rndl/index.html?__pageId__=2023290&wh_pid=2023290&skuFullScreen=true&heightRatio=0.9"
+      },
+      "ttidVersion": ""
+    },
+    "industryOfferDetailModel": null,
+    "layoutProtocol": {
+      "cacheTime": "60",
+      "components": [
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_image_banner\",\"trackInfo\":{\"expoData\":\"object_type@video^bizScene@offerDetail^object_id@390296011834^offerId@640545040750^videoId@390296011834^fromSource@offerDetail^sellerUserId@2497755771^atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"uiTrackInfo\":{\"od_live_click\":{\"args\":{\"atmosphere\":\"normal\",\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"useCase\":\"1688detail\",\"role\":\"defaultBuyer\",\"business\":\"default\",\"channel\":\"dsc\",\"offerId\":\"640545040750\",\"scene\":\"default\"}},\"videoPlay\":{\"args\":{\"atmosphere\":\"normal\",\"expoData\":\"object_type@video^bizScene@offerDetail^object_id@390296011834^offerId@640545040750^videoId@390296011834^fromSource@offerDetail^sellerUserId@2497755771^atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"useCase\":\"1688detail\",\"role\":\"defaultBuyer\",\"business\":\"default\",\"channel\":\"dsc\",\"bizScene\":\"offerDetail\",\"offerId\":\"640545040750\",\"videoId\":\"390296011834\",\"fromSource\":\"offerDetail\",\"scene\":\"default\"}}}},\"data\":{\"offerImgList\":[\"https://cbu01.alicdn.com/img/ibank/O1CN01gt7pNy1sVAMhQ1vsA_!!2497755771-0-cib.jpg\",\"https://cbu01.alicdn.com/img/ibank/O1CN01IVmOUM1sVAMbb89Ji_!!2497755771-0-cib.jpg\",\"https://cbu01.alicdn.com/img/ibank/O1CN010XrWy51sVAMkOSslA_!!2497755771-0-cib.jpg\",\"https://cbu01.alicdn.com/img/ibank/O1CN018EmBe21sVAMkvIOiz_!!2497755771-0-cib.jpg\",\"https://cbu01.alicdn.com/img/ibank/O1CN01vvCK7Q1sVAMdzwmAe_!!2497755771-0-cib.jpg\"],\"trackInfo\":{\"expoData\":\"object_type@video^bizScene@offerDetail^object_id@390296011834^offerId@640545040750^videoId@390296011834^fromSource@offerDetail^sellerUserId@2497755771\",\"uiTrackInfo\":{\"od_live_click\":{\"args\":{\"offerId\":\"640545040750\"}},\"videoPlay\":{\"args\":{\"expoData\":\"object_type@video^bizScene@offerDetail^object_id@390296011834^offerId@640545040750^videoId@390296011834^fromSource@offerDetail^sellerUserId@2497755771\",\"bizScene\":\"offerDetail\",\"offerId\":\"640545040750\",\"videoId\":\"390296011834\",\"fromSource\":\"offerDetail\"}}}},\"videoUrl\":\"https://cloud.video.taobao.com/play/u/2497755771/p/2/e/6/t/1/390296011834.mp4\",\"offerId\":\"640545040750\",\"offerImages\":[{\"imgUrl\":\"https://cbu01.alicdn.com/img/ibank/O1CN01gt7pNy1sVAMhQ1vsA_!!2497755771-0-cib.jpg\",\"type\":\"normal\",\"typeDes\":\"主图\"},{\"imgUrl\":\"https://cbu01.alicdn.com/img/ibank/O1CN01IVmOUM1sVAMbb89Ji_!!2497755771-0-cib.jpg\",\"type\":\"normal\",\"typeDes\":\"主图\"},{\"imgUrl\":\"https://cbu01.alicdn.com/img/ibank/O1CN010XrWy51sVAMkOSslA_!!2497755771-0-cib.jpg\",\"type\":\"normal\",\"typeDes\":\"主图\"},{\"imgUrl\":\"https://cbu01.alicdn.com/img/ibank/O1CN018EmBe21sVAMkvIOiz_!!2497755771-0-cib.jpg\",\"type\":\"normal\",\"typeDes\":\"主图\"},{\"imgUrl\":\"https://cbu01.alicdn.com/img/ibank/O1CN01vvCK7Q1sVAMdzwmAe_!!2497755771-0-cib.jpg\",\"type\":\"normal\",\"typeDes\":\"主图\"}],\"videoId\":390296011834,\"isPrivacy\":false,\"liveInfoModel\":{},\"offerInfoModel\":{\"price\":\"720.00\",\"offerId\":640545040750,\"title\":\"冰岚电动车成人电动自行车电瓶车小型助力车电动脚踏车迷你电动车\",\"isFav\":false},\"processingActivityImg\":\"\"}}",
+          "componentType": "detail_image_banner",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_image_banner/1612233116011/detail_image_banner.zip",
+            "dinamicTemplateVerion": "14",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_image_banner/1612233116011/detail_image_banner.zip"
+          },
+          "id": "30696610265",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610265.0",
+          "styleBinding": {
+            "layoutType": "default",
+            "paddingBottom": "9"
+          },
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_image_banner/1612233116011/detail_image_banner.zip",
+          "type": "view",
+          "version": "14"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_b_price_title\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"}}",
+          "componentType": "detail_od_b_price_title",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_b_price_title/1658458603907/detail_od_b_price_title.zip",
+            "dinamicTemplateVerion": "14",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_b_price_title/1658458603907/detail_od_b_price_title.zip"
+          },
+          "id": "306966102324",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.306966102324.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_b_price_title/1658458603907/detail_od_b_price_title.zip",
+          "type": "view",
+          "version": "14"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_price_count_down_two\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"}}",
+          "componentType": "detail_od_price_count_down_two",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_two/1664158648716/detail_od_price_count_down_two.zip",
+            "dinamicTemplateVerion": "32",
+            "dxAndroidPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_two/1597286095569/detail_od_price_count_down_two.zip",
+            "dxIosPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_two/1597286095569/detail_od_price_count_down_two.zip",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_two/1664158648716/detail_od_price_count_down_two.zip"
+          },
+          "id": "306966102325",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.306966102325.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_two/1664158648716/detail_od_price_count_down_two.zip",
+          "type": "view",
+          "version": "32"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_price_count_down_four\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"}}",
+          "componentType": "detail_od_price_count_down_four",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_four/1664158578066/detail_od_price_count_down_four.zip",
+            "dinamicTemplateVerion": "32",
+            "dxAndroidPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_four/1600860446967/detail_od_price_count_down_four.zip",
+            "dxIosPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_four/1600860446967/detail_od_price_count_down_four.zip",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_four/1664158578066/detail_od_price_count_down_four.zip"
+          },
+          "id": "306966102326",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.306966102326.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_four/1664158578066/detail_od_price_count_down_four.zip",
+          "type": "view",
+          "version": "32"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_price_count_down_one\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"}}",
+          "componentType": "detail_od_price_count_down_one",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_one/1664158681579/detail_od_price_count_down_one.zip",
+            "dinamicTemplateVerion": "24",
+            "dxAndroidPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_one/1597286056332/detail_od_price_count_down_one.zip",
+            "dxIosPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_one/1597286056332/detail_od_price_count_down_one.zip",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_one/1664158681579/detail_od_price_count_down_one.zip"
+          },
+          "id": "306966102327",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.306966102327.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_one/1664158681579/detail_od_price_count_down_one.zip",
+          "type": "view",
+          "version": "24"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_price_default_three\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"}}",
+          "componentType": "detail_od_price_default_three",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_default_three/1664158483033/detail_od_price_default_three.zip",
+            "dinamicTemplateVerion": "18",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_default_three/1664158483033/detail_od_price_default_three.zip"
+          },
+          "id": "306966102328",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.306966102328.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_default_three/1664158483033/detail_od_price_default_three.zip",
+          "type": "view",
+          "version": "18"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_price_default_two\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"condition\":\"10辆起批\",\"offerId\":640545040750,\"priceBegin\":\"720.00\",\"needRadius\":true}}",
+          "componentType": "detail_od_price_default_two",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_default_two/1664158514183/detail_od_price_default_two.zip",
+            "dinamicTemplateVerion": "24",
+            "dxAndroidPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_default_two/1597320324430/detail_od_price_default_two.zip",
+            "dxIosPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_default_two/1597320324430/detail_od_price_default_two.zip",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_default_two/1664158514183/detail_od_price_default_two.zip"
+          },
+          "id": "306966102329",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.306966102329.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_default_two/1664158514183/detail_od_price_default_two.zip",
+          "type": "view",
+          "version": "24"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_price_count_down_three\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"}}",
+          "componentType": "detail_od_price_count_down_three",
+          "dataBinding": {
+            "apiType": "local",
+            "coreField": "data",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_three/1664158603171/detail_od_price_count_down_three.zip",
+            "dinamicTemplateVerion": "10",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_three/1664158603171/detail_od_price_count_down_three.zip"
+          },
+          "id": "30696610928",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610928.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_price_count_down_three/1664158603171/detail_od_price_count_down_three.zip",
+          "type": "view",
+          "version": "10"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_vip_active_two\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"}}",
+          "componentType": "detail_od_vip_active_two",
+          "dataBinding": {
+            "apiType": "local",
+            "coreField": "data",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_active_two/1599533409323/detail_od_vip_active_two.zip",
+            "dinamicTemplateVerion": "1",
+            "dxAndroidPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_active_two/1599617295849/detail_od_vip_active_two.zip",
+            "dxH5Path": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_active_two/1599617295849/detail_od_vip_active_two_h5.js",
+            "dxIosPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_active_two/1599617295849/detail_od_vip_active_two.zip",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_active_two/1599533409323/detail_od_vip_active_two.zip"
+          },
+          "id": "30696610999",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610999.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_active_two/1599533409323/detail_od_vip_active_two.zip",
+          "type": "view",
+          "version": "1"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_vip_active\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"}}",
+          "componentType": "detail_od_vip_active",
+          "dataBinding": {
+            "apiType": "local",
+            "coreField": "data",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_active/1599634066285/detail_od_vip_active.zip",
+            "dinamicTemplateVerion": "7",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_active/1599634066285/detail_od_vip_active.zip"
+          },
+          "id": "30696610932",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610932.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_active/1599634066285/detail_od_vip_active.zip",
+          "type": "view",
+          "version": "7"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_vip_condition\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"}}",
+          "componentType": "detail_od_vip_condition",
+          "dataBinding": {
+            "apiType": "local",
+            "coreField": "data",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_condition/1599111569965/detail_od_vip_condition.zip",
+            "dinamicTemplateVerion": "4",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_condition/1599111569965/detail_od_vip_condition.zip"
+          },
+          "id": "30696610934",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610934.0",
+          "styleBinding": {
+            "layoutType": "default",
+            "paddingTop": "-6"
+          },
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_vip_condition/1599111569965/detail_od_vip_condition.zip",
+          "type": "view",
+          "version": "4"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_product_discounts\",\"trackInfo\":{\"expoData\":\"traceId@213e1f6217093760232601028e1c5a^__track_uuid@30696610341^promotionInfoType@^shareCoupon@false^experimentKey@^experimentGroup@^newSharePromotionStyle@^^atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"spmd\":\"a262eq.8239380.30696610341.0\",\"uiTrackInfo\":{\"od_coupon_tag_click\":{\"args\":{\"traceId\":\"213e1f6217093760232601028e1c5a\",\"atmosphere\":\"normal\",\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"useCase\":\"1688detail\",\"role\":\"defaultBuyer\",\"business\":\"default\",\"shareCoupon\":\"false\",\"channel\":\"dsc\",\"offerId\":\"640545040750\",\"spm-cnt\":\"a262eq.8239380.30696610341.od_coupon_tag_click\",\"scene\":\"default\"}},\"od_coupon_tag_share_click\":{\"args\":{\"traceId\":\"213e1f6217093760232601028e1c5a\",\"atmosphere\":\"normal\",\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"useCase\":\"1688detail\",\"role\":\"defaultBuyer\",\"business\":\"default\",\"channel\":\"dsc\",\"offerId\":\"640545040750\",\"spm-cnt\":\"a262eq.8239380.30696610341.od_coupon_tag_share_click\",\"scene\":\"default\"}}}},\"data\":{\"buttonName\":\"\",\"onHandPrice\":{\"ext\":\"起\",\"unit\":\"￥\"},\"bgColor\":\"#ff0e31\",\"couponList\":[{\"couponContent\":\"1件混批\",\"couponType\":\"CARD\"}],\"tagShareModel\":{\"sharePicUrl\":\"https://cbu01.alicdn.com/img/ibank/O1CN01gt7pNy1sVAMhQ1vsA_!!2497755771-0-cib.jpg\",\"shareContent\":\"运费险、少货必退...\\n我在阿里巴巴发现了一个不错的商品，赶快来看看吧～\",\"bizType\":\"offer\",\"shareTitle\":\"冰岚电动车成人电动自行车电瓶车小型助力车电动脚踏车迷你电动车\",\"sceneType\":\"od_promotion_tag\",\"pageContent\":{\"businessId\":640545040750},\"originalUrl\":\"http://m.1688.com/offer/640545040750.html?rpg-cnt=share.offerDetail&offerId=640545040750&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610341.0&__track_uuid=30696610341\"},\"couponInfoList\":[{\"summary\":\"本店部分商品满1000元或1件可混批采购\",\"buttonName\":\"查看\",\"displayType\":\"coupon\",\"uiType\":\"CARD\",\"name\":\"混批\",\"type\":\"MIX_WHOLESALE\",\"promotionItems\":[{\"summary\":\"本店部分商品满1000元或1件可混批采购\",\"promotionInfoType\":\"MIX_WHOLESALE\",\"availablePeriod\":\"null\",\"promotionDisplayName\":\"混批\",\"creatorId\":2497755771,\"label\":\"1件混批\",\"detail\":\"本店部分商品满1000元或1件可混批采购\",\"extendDetail\":\"\"}],\"rankValue\":100,\"extraInfo\":{\"uiType\":\"CARD\"}}],\"couponRuleLink\":\"https://rulechannel.1688.com/1688?type=detail&ruleId=20002183&cId=31&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610341.0&__track_uuid=30696610341#/rule/detail?ruleId=20002183&cId=31\",\"linkUrl\":\"https://cybert.m.1688.com/43ohz283.html?sceneName=chimera_16527&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610341.0&__track_uuid=30696610341\",\"offerId\":640545040750,\"style\":{\"textColor\":\"#FF4000\",\"arrowsImg\":\"https://img.alicdn.com/tfs/TB19FQtP4D1gK0jSZFsXXbldVXa-26-44.png\"},\"couponRuleLinkText\":\"新人专享玩法说明 >\",\"pageName\":\"Page_GetCoupon\"}}",
+          "componentType": "detail_od_product_discounts",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_discounts/1684465144563/detail_od_product_discounts.zip",
+            "dinamicTemplateVerion": "42",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_discounts/1684465144563/detail_od_product_discounts.zip"
+          },
+          "id": "30696610341",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610341.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_discounts/1684465144563/detail_od_product_discounts.zip",
+          "type": "view",
+          "version": "42"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_company_feature\"}",
+          "componentType": "detail_od_company_feature",
+          "dataBinding": {
+            "apiType": "local",
+            "coreField": "data",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_company_feature/1648178876441/detail_od_company_feature.zip",
+            "dinamicTemplateVerion": "12",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_company_feature/1648178876441/detail_od_company_feature.zip"
+          },
+          "id": "306966101208",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.306966101208.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_company_feature/1648178876441/detail_od_company_feature.zip",
+          "type": "view",
+          "version": "12"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_title\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"tagList\":[],\"scrollList\":[],\"complexTagList\":[],\"offerId\":640545040750,\"title\":\"冰岚电动车成人电动自行车电瓶车小型助力车电动脚踏车迷你电动车\",\"tagDetail\":[],\"selledNumber\":\"0\"}}",
+          "componentType": "detail_od_title",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_title/1657164952823/detail_od_title.zip",
+            "dinamicTemplateVerion": "29",
+            "dxAndroidPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_title/1597241497401/detail_od_title.zip",
+            "dxH5Path": "https://dinamicx.alibabausercontent.com/pub/detail_od_title/1597241497401/detail_od_title_h5.js",
+            "dxIosPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_title/1597241497401/detail_od_title.zip",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_title/1657164952823/detail_od_title.zip"
+          },
+          "id": "30696610375",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610375.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_title/1657164952823/detail_od_title.zip",
+          "type": "view",
+          "version": "29"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{}",
+          "componentType": "detail_od_product_feature",
+          "dataBinding": {
+            "apiName": "mtop.taobao.widgetService.getJsonComponent",
+            "apiType": "mtop",
+            "apiVersion": "1.0",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false",
+            "param": {
+              "cid": "getOfferSellingPoint:getOfferSellingPoint",
+              "methodName": "execute",
+              "params": {
+                "offerId": "${offerId}"
+              }
+            }
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_feature/1628650956134/detail_od_product_feature.zip",
+            "dinamicTemplateVerion": "13",
+            "dxAndroidPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_feature/1597322308264/detail_od_product_feature.zip",
+            "dxH5Path": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_feature/1597322308264/detail_od_product_feature_h5.js",
+            "dxIosPath": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_feature/1597322308264/detail_od_product_feature.zip",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_feature/1628650956134/detail_od_product_feature.zip"
+          },
+          "id": "30696610377",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610377.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_feature/1628650956134/detail_od_product_feature.zip",
+          "type": "view",
+          "version": "13"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{}",
+          "componentType": "detail_od_sale_crunchies",
+          "dataBinding": {
+            "apiName": "mtop.taobao.widgetService.getJsonComponent",
+            "apiType": "mtop",
+            "apiVersion": "1.0",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false",
+            "param": {
+              "cid": "getOfferBillboard:getOfferBillboard",
+              "methodName": "execute",
+              "params": {
+                "offerId": "${offerId}"
+              }
+            }
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_sale_crunchies/1612339360971/detail_od_sale_crunchies.zip",
+            "dinamicTemplateVerion": "10",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_sale_crunchies/1612339360971/detail_od_sale_crunchies.zip"
+          },
+          "id": "30696610255",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610255.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_sale_crunchies/1612339360971/detail_od_sale_crunchies.zip",
+          "type": "view",
+          "version": "10"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_general_corner_bottom\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"data\":\"default\"}}",
+          "componentType": "detail_od_general_corner_bottom",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip",
+            "dinamicTemplateVerion": "2",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip"
+          },
+          "id": "30696610271",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610271.0",
+          "styleBinding": {
+            "layoutType": "default",
+            "paddingBottom": "9"
+          },
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip",
+          "type": "view",
+          "version": "2"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_img_banner\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"}}",
+          "componentType": "detail_od_img_banner",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_img_banner/1597843084117/detail_od_img_banner.zip",
+            "dinamicTemplateVerion": "2",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_img_banner/1597843084117/detail_od_img_banner.zip"
+          },
+          "id": "30696610591",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610591.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_img_banner/1597843084117/detail_od_img_banner.zip",
+          "type": "view",
+          "version": "2"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_general_corner_top\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"data\":\"default\"}}",
+          "componentType": "detail_od_general_corner_top",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_top/1597286172970/detail_od_general_corner_top.zip",
+            "dinamicTemplateVerion": "2",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_top/1597286172970/detail_od_general_corner_top.zip"
+          },
+          "id": "30696610340",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610340.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_top/1597286172970/detail_od_general_corner_top.zip",
+          "type": "view",
+          "version": "2"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_product_service\",\"trackInfo\":{\"expoData\":\"intentionCode@app_search_filters^intentionBucket@NONE^offerId@640545040750^atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"uiTrackInfo\":{\"serviceClick\":{\"args\":{\"atmosphere\":\"normal\",\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"useCase\":\"1688detail\",\"role\":\"defaultBuyer\",\"business\":\"default\",\"channel\":\"dsc\",\"offerId\":\"640545040750\",\"scene\":\"default\"}}}},\"data\":{\"serviceDesc\":[{\"serviceName\":\"运费险\",\"type\":\"red\",\"textColor\":\"#006DFF\"},{\"serviceName\":\"少货必退\",\"type\":\"red\",\"textColor\":\"#006DFF\"},{\"serviceName\":\"晚发必赔\",\"type\":\"protect\",\"textColor\":\"#222222\"}],\"newOdFlag\":false,\"service2\":\"少货必退\",\"serviceDetail\":[{\"description\":\"卖家为您购买的商品投保退货运费险（运费险生效以下单后的保单结果为准）\",\"serviceName\":\"运费险\"},{\"description\":\"“少货必退” 是1688平台少货必赔升级服务。针对平台L2～L6买家，符合一定退款金额范围，买家针对少货类原因发起的售中或者售后仅退款申请，商家必须在24小时内响应退款\",\"serviceName\":\"少货必退\"},{\"description\":\"若商家未按订单约定的时间发货，您可以在订单详情申请赔付\",\"serviceName\":\"晚发必赔\"},{\"description\":\"满足相应条件下，卖家需支持7天无理由，其中定制订单不支持“7天无理由退货”。\",\"serviceName\":\"7天无理由退货\"},{\"description\":\"在符合一定的退款申请原因、时效和退款金额范围内，可享受0秒退款服务。\",\"serviceName\":\"极速退款\"}],\"serviceUrl\":\"https://air.1688.com/app/ctf-m-page/address-manage/safe-buy-popup.html?spm=defwork.home.0.0.5a6b5c4bUV595M&height=534\",\"service1\":\"运费险\",\"offerId\":640545040750,\"service3\":\"晚发必赔\"}}",
+          "componentType": "detail_od_product_service",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_service/1708914027630/detail_od_product_service.zip",
+            "dinamicTemplateVerion": "47",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_service/1708914027630/detail_od_product_service.zip"
+          },
+          "id": "30696610342",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610342.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_service/1708914027630/detail_od_product_service.zip",
+          "type": "view",
+          "version": "47"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_product_delivery\",\"trackInfo\":{\"expoData\":\"traceId@213e1f6217093760232601028e1c5a^deliveryLimit@2^__track_uuid@30696610343^^atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"spmd\":\"a262eq.8239380.30696610343.0\",\"uiTrackInfo\":{}},\"data\":{\"deliveryLimitTxt\":\"承诺48小时发货\",\"unitWeight\":50.0,\"buyerProtectionModel\":[{\"serviceCode\":\"yfx_s\",\"serviceShortCode\":\"yfx_s\",\"categorySpecial\":\"false\",\"littleLogo\":\"https://cbu01.alicdn.com/cms/upload/2016/504/795/2597405_532208266.gif\",\"shortBuyerDesc\":\"卖家为您购买的商品投保退货运费险（运费险生效以下单后的保单结果为准）\",\"productPage\":\"https://help.1688.com/page/knowledge?pageId=6&category=1000080757&knowledge=1064628913&language=zh&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610343.0&__track_uuid=30696610343\",\"largeLogo\":\"https://cbu01.alicdn.com/cms/upload/2016/926/836/2638629_532208266.png\",\"type\":\"insurance\",\"serviceName\":\"运费险\",\"userId\":2497755771,\"enabled\":true,\"moreHugeLogo\":\"https://cbu01.alicdn.com/cms/upload/2016/926/836/2638629_532208266.png\",\"serviceVersion\":1,\"littleGrayLogo\":\"https://cbu01.alicdn.com/cms/upload/2016/504/795/2597405_532208266.gif\",\"bigLogo\":\"https://cbu01.alicdn.com/cms/upload/2016/926/836/2638629_532208266.png\",\"logo\":\"https://cbu01.alicdn.com/cms/upload/2016/926/836/2638629_532208266.png\",\"middleLogo\":\"https://cbu01.alicdn.com/cms/upload/2016/706/936/2639607_532208266.png\",\"hugeLogo\":\"https://cbu01.alicdn.com/cms/upload/2016/926/836/2638629_532208266.png\",\"logicGroupId\":\"9\"},{\"serviceCode\":\"shbp\",\"serviceShortCode\":\"shbp\",\"categorySpecial\":\"7,1813,67,201547801\",\"littleLogo\":\"https://img.alicdn.com/imgextra/i2/O1CN01YEEmMP1dp7Os7LIbh_!!6000000003784-2-tps-17-16.png\",\"shortSellerDesc\":\"“少货必退” 是1688平台少货必赔升级服务。针对平台L2～L6买家，符合一定退款金额范围，买家针对少货类原因发起的售中或者售后仅退款申请，商家必须在24小时内响应退款\",\"shortBuyerDesc\":\"“少货必退” 是1688平台少货必赔升级服务。针对平台L2～L6买家，符合一定退款金额范围，买家针对少货类原因发起的售中或者售后仅退款申请，商家必须在24小时内响应退款\",\"productPage\":\"https://show.1688.com/vip/other/bxgey8zy.html?spm=a262eq.8239380.30696610343.0&__pageId__=227612&cms_id=227612&traceId=213e1f6217093760232601028e1c5a&__track_uuid=30696610343\",\"largeLogo\":\"https://img.alicdn.com/imgextra/i2/O1CN01ybh2Fz1q5rGdWZUrt_!!6000000005445-2-tps-48-48.png\",\"type\":\"protect\",\"serviceName\":\"少货必退\",\"extendInfo\":{\"popDescription\":\"如卖家未能在指定期间内提供相关证据材料，或相关证据材料明显无效，阿里巴巴判定买家赔付申请成立，卖家同意按照本协议之约定向买家赔偿其受到的损失，赔偿金额为买家已实际支付的短少产品价款（仅为配件短少时亦应就整套产品价款进行赔偿）。此等情形下，阿里巴巴有权动用卖家的保证金或通知支付宝公司自卖家的支付宝账户直接扣除相应金额款项先行赔付给买家。\"},\"userId\":2497755771,\"enabled\":true,\"moreHugeLogo\":\"https://img.alicdn.com/imgextra/i1/O1CN01mONsdW1EIizcYlvhz_!!6000000000329-2-tps-64-64.png\",\"serviceVersion\":2,\"bigLogo\":\"https://img.alicdn.com/imgextra/i4/O1CN01ePnrlN1clAMnP0OE9_!!6000000003640-2-tps-32-32.png\",\"instruction\":\"当前开放类目： 1）个护/家清 2）二手设备转让 3）五金、工具 4）交通运输 5）仪器仪表 6）传媒、广电 7）内衣 8）农业 9）冶金矿产 10）办公、文化 11）加工 12）包装 13）化工 14）医药、保养 15）印刷 16）商务服务 17）女装 18）安全、防护 19）宠物及园艺 20）家用电器 21）家纺家饰 22）家装建材 23）成人用品 24）数码、电脑 25）居家日用品 26）服饰配件、饰品 27）机床 28）机械及行业设备 29）橡塑 30）汽摩及配件 31）汽车用品 32）灯饰照明 33）玩具 34）环保 35）电子元器件 36）电工电气 37）男装 38）眼镜及配件 39）童装 40）箱包皮具 41）纺织、皮革 42）美容护肤/彩妆 43）能源 44）运动户外 45）通信产品 46）钢铁 47）鞋 48）食品酒水 49）餐饮生鲜 50）建材 51）日用餐厨饮具 52）收纳清洁用具\",\"textDesc\":\"如卖家未能在指定期间内提供相关证据材料，或相关证据材料明显无效，阿里巴巴判定买家赔付申请成立，卖家同意按照本协议之约定向买家赔偿其受到的损失，赔偿金额为买家已实际支付的短少产品价款（仅为配件短少时亦应就整套产品价款进行赔偿）。此等情形下，阿里巴巴有权动用卖家的保证金或通知支付宝公司自卖家的支付宝账户直接扣除相应金额款项先行赔付给买家。\",\"logo\":\"https://img.alicdn.com/imgextra/i1/O1CN01mONsdW1EIizcYlvhz_!!6000000000329-2-tps-64-64.png\",\"middleLogo\":\"https://img.alicdn.com/imgextra/i1/O1CN01FKZyZq1jWhAHbdbAm_!!6000000004556-2-tps-24-24.png\",\"agreementPage\":\"https://terms.alicdn.com/legal-agreement/terms/suit_bu1_b2b/suit_bu1_b2b202107011117_40632.html?traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610343.0&__track_uuid=30696610343\",\"hugeLogo\":\"https://img.alicdn.com/imgextra/i1/O1CN01DFRZiF1WPk9AY2fGM_!!6000000002781-2-tps-58-58.png\",\"logicGroupId\":\"6\"},{\"serviceCode\":\"ssbxsfh\",\"serviceShortCode\":\"D\",\"productPage\":\"https://show.1688.com/vip/other/1bpmrma4.html?__pageId__=227845&cms_id=227845&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610343.0&__track_uuid=30696610343\",\"type\":\"protect\",\"enabled\":true,\"serviceVersion\":2,\"bigLogo\":\"https://cbu01.alicdn.com/cms/upload/2015/839/305/2503938_1964054271.png\",\"packageBuyerDesc\":\"晚发必赔\",\"logo\":\"https://cbu01.alicdn.com/cms/upload/2015/460/315/2513064_1964054271.png\",\"middleLogo\":\"https://cbu01.alicdn.com/cms/upload/2015/867/805/2508768_1964054271.png\",\"agreementPage\":\"https://terms.alicdn.com/legal-agreement/terms/suit_bu1_b2b/suit_bu1_b2b202104072140_25758.html?traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610343.0&__track_uuid=30696610343\",\"agreeDeliveryHours\":48,\"hugeLogo\":\"https://cbu01.alicdn.com/cms/upload/2015/008/705/2507800_1964054271.png\",\"littleLogo\":\"https://cbu01.alicdn.com/cms/upload/2015/177/505/2505771_1964054271.png\",\"shortSellerDesc\":\"开通此服务的卖家，优先获得专场曝光，醒目的标识展示，现货保障刺激买家下单。\",\"shortBuyerDesc\":\"若商家未按订单约定的时间发货，您可以在订单详情申请赔付\",\"largeLogo\":\"https://cbu01.alicdn.com/cms/upload/2015/610/615/2516016_1964054271.png\",\"serviceName\":\"晚发必赔\",\"extendInfo\":{\"popDescription\":\"卖家在承诺买家保障服务的基础上，向买家提供“48小时发货延必赔”的服务。在买家通过支付宝担保交易完成付款或通过货到付款下单成功后，卖家承诺在买家支付成功起48小时内发货。如卖家未履行前述承诺，买家可在指定期限内发起维权，并申请赔付。\",\"delivery_days\":\"2\"},\"userId\":2497755771,\"moreHugeLogo\":\"https://cbu01.alicdn.com/cms/upload/2015/460/315/2513064_1964054271.png\",\"currentStep\":1,\"instruction\":\"当前开放类目： 1）纺织、皮革 2）家用电器 3）数码、电脑 4）能源 5）交通运输 6）传媒、广电 7）橡塑 8）灯饰照明 9）五金、工具 10）环保 11）医药、保养 12）办公、文化 13）包装 14）商务服务 15）汽摩及配件 16）美容护肤/彩妆 17）玩具 18）男装 19）女装 20）仪器仪表 21）个护/家清 22）成人用品 23）建材 24）农业 25）食品酒水 26）电工电气 27）化工 28）冶金矿产 29）家装建材 30）居家日用品 31）运动户外 32）服饰配件、饰品 33）电子元器件 34）机械及行业设备 35）安全、防护 36）印刷 37）家纺家饰 38）童装 39）内衣 40）通信产品 41）机床 42）加工 43）二手设备转让 44）鞋 45）箱包皮具 46）宠物及园艺 47）汽车用品 48）钢铁 49）餐饮生鲜 50）日用餐厨饮具 51）收纳清洁用具 52）新能源\",\"textDesc\":\"卖家在承诺买家保障服务的基础上，向买家提供“48小时发货延必赔”的服务。在买家通过支付宝担保交易完成付款或通过货到付款下单成功后，卖家承诺在买家支付成功起48小时内发货。如卖家未履行前述承诺，买家可在指定期限内发起维权，并申请赔付。\",\"ptsOfferStepModels\":[{\"selectedStartQuantity\":1,\"selectedPtsOfferTagModel\":{\"serviceCode\":\"ssbxsfh\",\"disabled\":false,\"serviceName\":\"48小时发货\",\"required\":false,\"agreeDeliveryHours\":48,\"selected\":false},\"selected\":false}],\"logicGroupId\":\"1\"},{\"serviceCode\":\"qtwlybt\",\"serviceShortCode\":\"qtwlybt\",\"littleLogo\":\"https://img.alicdn.com/imgextra/i1/O1CN01YIe8Lk1vxyDWgdkPQ_!!6000000006240-2-tps-16-16.png\",\"shortSellerDesc\":\"卖家承诺买家签收货物后7天内，在“商品完好”的情形下，向买家提供退货服务。\",\"shortBuyerDesc\":\"满足相应条件下，卖家需支持7天无理由，其中定制订单不支持“7天无理由退货”。\",\"largeLogo\":\"https://img.alicdn.com/imgextra/i2/O1CN01iYPe5E1YGhdWMDnh8_!!6000000003032-2-tps-48-48.png\",\"type\":\"protect\",\"serviceName\":\"7天无理由退货\",\"extendInfo\":{\"popDescription\":\"卖家承诺买家签收货物后7天内，在“商品完好”的情形下，向买家提供退货服务。\"},\"userId\":2497755771,\"enabled\":true,\"moreHugeLogo\":\"https://img.alicdn.com/imgextra/i2/O1CN01NyKX2m1pKgXu54Rve_!!6000000005342-2-tps-64-64.png\",\"serviceVersion\":2,\"bigLogo\":\"https://img.alicdn.com/imgextra/i2/O1CN01dNPHxv1UZhbWE3yPO_!!6000000002532-2-tps-32-32.png\",\"packageBuyerDesc\":\"7天无理由退货\",\"instruction\":\"当前开放类目： 1）纺织、皮革 2）家用电器 3）数码、电脑 4）能源 5）交通运输 6）传媒、广电 7）橡塑 8）灯饰照明 9）五金、工具 10）环保 11）医药、保养 12）办公、文化 13）包装 14）商务服务 15）汽摩及配件 16）美容护肤/彩妆 17）玩具 18）男装 19）女装 20）仪器仪表 21）个护/家清 22）成人用品 23）建材 24）农业 25）食品酒水 26）电工电气 27）化工 28）冶金矿产 29）家装建材 30）居家日用品 31）运动户外 32）服饰配件、饰品 33）电子元器件 34）机械及行业设备 35）安全、防护 36）印刷 37）家纺家饰 38）童装 39）内衣 40）通信产品 41）机床 42）加工 43）二手设备转让 44）鞋 45）箱包皮具 46）宠物及园艺 47）汽车用品 48）钢铁 49）餐饮生鲜 50）日用餐厨饮具 51）收纳清洁用具\",\"textDesc\":\"卖家承诺买家签收货物后7天内，在“商品完好”的情形下，向买家提供退货服务。\",\"logo\":\"https://img.alicdn.com/imgextra/i2/O1CN01NyKX2m1pKgXu54Rve_!!6000000005342-2-tps-64-64.png\",\"middleLogo\":\"https://img.alicdn.com/imgextra/i2/O1CN01H10f2n1gAJ1vgHRgN_!!6000000004101-2-tps-24-24.png\",\"agreementPage\":\"https://rule.1688.com/?+tracelog=aliguize_wzdh01&type=detail&ruleId=20004568&cId=3044&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610343.0&__track_uuid=30696610343#/rule/detail?ruleId=20004568&cId=3044\",\"hugeLogo\":\"https://img.alicdn.com/imgextra/i1/O1CN01qUUUwV1RIo98arRvQ_!!6000000002089-2-tps-58-58.png\",\"logicGroupId\":\"4\"},{\"serviceCode\":\"jstk_p\",\"serviceShortCode\":\"jstk_p\",\"littleLogo\":\"https://img.alicdn.com/imgextra/i4/O1CN01tnZSFq1Gfk8BH5kkH_!!6000000000650-2-tps-16-16.png\",\"shortSellerDesc\":\"在符合一定的退款申请原因、时效和退款金额范围内，可享受0秒退款服务。\",\"shortBuyerDesc\":\"在符合一定的退款申请原因、时效和退款金额范围内，可享受0秒退款服务。\",\"productPage\":\"https://show.1688.com/vip/other/2csfppfe.html?spm=a262eq.8239380.30696610343.0&__pageId__=227465&cms_id=227465&traceId=213e1f6217093760232601028e1c5a&__track_uuid=30696610343\",\"largeLogo\":\"https://img.alicdn.com/imgextra/i3/O1CN01ASkwpL1cIloQXSmWF_!!6000000003578-2-tps-48-48.png\",\"type\":\"protect\",\"serviceName\":\"极速退款\",\"extendInfo\":{\"popDescription\":\"“在符合一定的退款申请原因、时效和退款金额范围内，可享受0秒退款服务。\"},\"userId\":2497755771,\"enabled\":true,\"moreHugeLogo\":\"https://img.alicdn.com/imgextra/i3/O1CN01dcTxhB1f7j6hzsS7s_!!6000000003960-2-tps-64-64.png\",\"serviceVersion\":1,\"bigLogo\":\"https://img.alicdn.com/imgextra/i1/O1CN01VvqbTG1K5nVfaHhdS_!!6000000001113-2-tps-32-32.png\",\"packageBuyerDesc\":\"极速退款\",\"instruction\":\"当前开放类目： 1）食品酒水 2）美容护肤/彩妆 3）个护/家清 4）成人用品 5）玩具 6）汽车用品 7）办公、文化 8）数码、电脑 9）家用电器 10）汽摩及配件 11）男装 12）运动户外 13）内衣 14）女装 15）童装 16）服饰配件、饰品 17）鞋 18）居家日用品 19）箱包皮具 20）家纺家饰 21）餐饮生鲜 22）灯饰照明 23）宠物及园艺 24）医药、保养 25）商务服务 26）日用餐厨饮具 27）收纳清洁用具\",\"textDesc\":\"“在符合一定的退款申请原因、时效和退款金额范围内，可享受0秒退款服务。\",\"logo\":\"https://img.alicdn.com/imgextra/i3/O1CN01dcTxhB1f7j6hzsS7s_!!6000000003960-2-tps-64-64.png\",\"middleLogo\":\"https://img.alicdn.com/imgextra/i2/O1CN01y8loDJ21Ie6CBum7n_!!6000000006962-2-tps-24-24.png\",\"hugeLogo\":\"https://img.alicdn.com/imgextra/i1/O1CN01MKJkrw1ksy2RwBtJO_!!6000000004740-2-tps-58-58.png\",\"logicGroupId\":\"7\"}],\"freeEndAmount\":-1,\"deliveryLimit\":2,\"oldLink\":\"https://lift2.m.1688.com/page/receiveAddressList.html?scene=4&from=native&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610343.0&__track_uuid=30696610343\",\"postFeeValue\":57.00,\"link\":\"https://air.1688.com/app/ctf-m-page/address-manage/delivery-to.html?isNative=1&heightRatio=0.8&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610343.0&__track_uuid=30696610343\",\"logistics\":\"选择收货地后展示运费\",\"targetLocation\":\"送至：选择收货地址后展示运费\",\"templateId\":3040257,\"newLink\":\"http://popups.m.1688.com/index.htm?version=2.0&contentType=h5&orientation=fromBottom&widthRatio=1&heightRatio=0.8&showNow=true&contentUrl=https%3A%2F%2Fair.1688.com%2Fapp%2Fctf-m-page%2Faddress-manage%2Fdelivery-to.html%3FisNative%3D1%26heightRatio%3D0.8%26isPopup%3D1%26traceId%3D2133dac316764415331323170e58c1%26spm%3Da262eq.8239380.591899106619.0%26__track_uuid%3D591899106619%26cornerRadius%3D15x15x0x0&windowMaskColor=000000&windowMaskAlpha=0.7&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610343.0&__track_uuid=30696610343\",\"popLinkUrl\":\"http://popups.m.1688.com/index.html?version=2.0&contentType=h5&orientation=fromBottom&showNow=true&contentUrl=https%3A%2F%2Fair.1688.com%2Fapp%2Fctf-m-page%2Foffer-delivery-service%2Foffer-delivery-service.html%3FcornerRadius%3D12x12x0x0%26ytContentColor%3DFFFFFF&windowMaskColor=000000&widthRatio=1&heightRatio=0.5&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610343.0&__track_uuid=30696610343\",\"newOdFlag\":true,\"sendAddressCode\":\"12554778\",\"amount\":10,\"priceColor\":\"#2B2B2B\",\"jicai\":\"\",\"buyerProtectionScene\":\"dsc\",\"isNew\":false,\"deliveryLimitTimeModel\":{\"limitTimeDay\":2,\"offerId\":640545040750,\"orderCntLevelText\":\"\",\"limitTimeDesc\":\"承诺48小时发货\",\"expectTimeDesc\":\"\",\"attrs\":{\"offerUnit\":\"辆\",\"ptsOfferStepModels\":[{\"selectedStartQuantity\":1,\"selectedPtsOfferTagModel\":{\"serviceCode\":\"ssbxsfh\",\"disabled\":false,\"serviceName\":\"48小时发货\",\"required\":false,\"agreeDeliveryHours\":48,\"selected\":false},\"selected\":false}]}},\"postFree\":false,\"offerId\":640545040750,\"location\":\"浙江金华\",\"protectionInfos\":[{\"logoUrl_64_64\":\"https://cbu01.alicdn.com/cms/upload/2016/926/836/2638629_532208266.png\",\"serviceLink\":\"https://help.1688.com/page/knowledge?pageId=6&category=1000080757&knowledge=1064628913&language=zh&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610343.0&__track_uuid=30696610343\",\"serviceCode\":\"yfx_s\",\"logoUrl_16_16\":\"https://cbu01.alicdn.com/cms/upload/2016/504/795/2597405_532208266.gif\",\"description\":\"卖家为您购买的商品投保退货运费险（运费险生效以下单后的保单结果为准）\",\"serviceName\":\"运费险\",\"type\":\"red\",\"logoUrl\":\"https://cbu01.alicdn.com/cms/upload/2016/926/836/2638629_532208266.png\"},{\"longDescription\":\"如卖家未能在指定期间内提供相关证据材料，或相关证据材料明显无效，阿里巴巴判定买家赔付申请成立，卖家同意按照本协议之约定向买家赔偿其受到的损失，赔偿金额为买家已实际支付的短少产品价款（仅为配件短少时亦应就整套产品价款进行赔偿）。此等情形下，阿里巴巴有权动用卖家的保证金或通知支付宝公司自卖家的支付宝账户直接扣除相应金额款项先行赔付给买家。\",\"logoUrl_64_64\":\"https://img.alicdn.com/imgextra/i1/O1CN01mONsdW1EIizcYlvhz_!!6000000000329-2-tps-64-64.png\",\"serviceLink\":\"https://show.1688.com/vip/other/bxgey8zy.html?spm=a262eq.8239380.30696610343.0&__pageId__=227612&cms_id=227612&traceId=213e1f6217093760232601028e1c5a&__track_uuid=30696610343\",\"serviceCode\":\"shbp\",\"logoUrl_16_16\":\"https://img.alicdn.com/imgextra/i2/O1CN01YEEmMP1dp7Os7LIbh_!!6000000003784-2-tps-17-16.png\",\"description\":\"“少货必退” 是1688平台少货必赔升级服务。针对平台L2～L6买家，符合一定退款金额范围，买家针对少货类原因发起的售中或者售后仅退款申请，商家必须在24小时内响应退款\",\"serviceName\":\"少货必退\",\"type\":\"red\",\"logoUrl\":\"https://img.alicdn.com/imgextra/i1/O1CN01mONsdW1EIizcYlvhz_!!6000000000329-2-tps-64-64.png\"},{\"longDescription\":\"卖家在承诺买家保障服务的基础上，向买家提供“48小时发货延必赔”的服务。在买家通过支付宝担保交易完成付款或通过货到付款下单成功后，卖家承诺在买家支付成功起48小时内发货。如卖家未履行前述承诺，买家可在指定期限内发起维权，并申请赔付。\",\"logoUrl_64_64\":\"https://cbu01.alicdn.com/cms/upload/2015/460/315/2513064_1964054271.png\",\"serviceLink\":\"https://show.1688.com/vip/other/1bpmrma4.html?__pageId__=227845&cms_id=227845&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610343.0&__track_uuid=30696610343\",\"serviceCode\":\"ssbxsfh\",\"logoUrl_16_16\":\"https://cbu01.alicdn.com/cms/upload/2015/177/505/2505771_1964054271.png\",\"buyerDescription\":\"晚发必赔\",\"description\":\"若商家未按订单约定的时间发货，您可以在订单详情申请赔付\",\"serviceName\":\"晚发必赔\",\"type\":\"protect\",\"logoUrl\":\"https://cbu01.alicdn.com/cms/upload/2015/460/315/2513064_1964054271.png\",\"agreeDeliveryHours\":48},{\"longDescription\":\"卖家承诺买家签收货物后7天内，在“商品完好”的情形下，向买家提供退货服务。\",\"logoUrl_64_64\":\"https://img.alicdn.com/imgextra/i2/O1CN01NyKX2m1pKgXu54Rve_!!6000000005342-2-tps-64-64.png\",\"serviceCode\":\"qtwlybt\",\"logoUrl_16_16\":\"https://img.alicdn.com/imgextra/i1/O1CN01YIe8Lk1vxyDWgdkPQ_!!6000000006240-2-tps-16-16.png\",\"buyerDescription\":\"7天无理由退货\",\"description\":\"满足相应条件下，卖家需支持7天无理由，其中定制订单不支持“7天无理由退货”。\",\"serviceName\":\"7天无理由退货\",\"type\":\"protect\",\"logoUrl\":\"https://img.alicdn.com/imgextra/i2/O1CN01NyKX2m1pKgXu54Rve_!!6000000005342-2-tps-64-64.png\"},{\"longDescription\":\"“在符合一定的退款申请原因、时效和退款金额范围内，可享受0秒退款服务。\",\"logoUrl_64_64\":\"https://img.alicdn.com/imgextra/i3/O1CN01dcTxhB1f7j6hzsS7s_!!6000000003960-2-tps-64-64.png\",\"serviceLink\":\"https://show.1688.com/vip/other/2csfppfe.html?spm=a262eq.8239380.30696610343.0&__pageId__=227465&cms_id=227465&traceId=213e1f6217093760232601028e1c5a&__track_uuid=30696610343\",\"serviceCode\":\"jstk_p\",\"logoUrl_16_16\":\"https://img.alicdn.com/imgextra/i4/O1CN01tnZSFq1Gfk8BH5kkH_!!6000000000650-2-tps-16-16.png\",\"buyerDescription\":\"极速退款\",\"description\":\"在符合一定的退款申请原因、时效和退款金额范围内，可享受0秒退款服务。\",\"serviceName\":\"极速退款\",\"type\":\"protect\",\"logoUrl\":\"https://img.alicdn.com/imgextra/i3/O1CN01dcTxhB1f7j6hzsS7s_!!6000000003960-2-tps-64-64.png\"}],\"skuWeight\":{}}}",
+          "componentType": "detail_od_product_delivery",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_delivery/1708571624109/detail_od_product_delivery.zip",
+            "dinamicTemplateVerion": "67",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_delivery/1708571624109/detail_od_product_delivery.zip"
+          },
+          "id": "30696610343",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610343.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_delivery/1708571624109/detail_od_product_delivery.zip",
+          "type": "view",
+          "version": "67"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_product_specification\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"uiTrackInfo\":{\"sku_select\":{\"args\":{\"atmosphere\":\"normal\",\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"useCase\":\"1688detail\",\"role\":\"defaultBuyer\",\"business\":\"default\",\"channel\":\"dsc\",\"offerId\":\"640545040750\",\"scene\":\"default\"}}}},\"data\":{\"leftContent\":\"选择数量查看具体价格\",\"privatePrice\":false,\"addContent\":\"共1种规格型号可选\",\"title\":\"规格\",\"content\":\"1种规格 可选\"}}",
+          "componentType": "detail_od_product_specification",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_specification/1605860463145/detail_od_product_specification.zip",
+            "dinamicTemplateVerion": "7",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_specification/1605860463145/detail_od_product_specification.zip"
+          },
+          "id": "30696610344",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610344.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_product_specification/1605860463145/detail_od_product_specification.zip",
+          "type": "view",
+          "version": "7"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_general_corner_bottom\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"data\":\"default\"}}",
+          "componentType": "detail_od_general_corner_bottom",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip",
+            "dinamicTemplateVerion": "2",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip"
+          },
+          "id": "30696610345",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610345.0",
+          "styleBinding": {
+            "layoutType": "default",
+            "paddingBottom": "9"
+          },
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip",
+          "type": "view",
+          "version": "2"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_general_corner_top\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"data\":\"default\"}}",
+          "componentType": "detail_od_general_corner_top",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_top/1597286172970/detail_od_general_corner_top.zip",
+            "dinamicTemplateVerion": "2",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_top/1597286172970/detail_od_general_corner_top.zip"
+          },
+          "id": "30696610594",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610594.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_top/1597286172970/detail_od_general_corner_top.zip",
+          "type": "view",
+          "version": "2"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_sell_way\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"selectedScene\":\"order\",\"nextScene\":\"distribution\",\"offerId\":640545040750}}",
+          "componentType": "detail_od_sell_way",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_sell_way/1597912800499/detail_od_sell_way.zip",
+            "dinamicTemplateVerion": "9",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_sell_way/1597912800499/detail_od_sell_way.zip"
+          },
+          "id": "30696610354",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610354.0",
+          "styleBinding": {
+            "layoutType": "default",
+            "paddingBottom": ""
+          },
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_sell_way/1597912800499/detail_od_sell_way.zip",
+          "type": "view",
+          "version": "9"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_general_corner_bottom\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"data\":\"default\"}}",
+          "componentType": "detail_od_general_corner_bottom",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip",
+            "dinamicTemplateVerion": "2",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip"
+          },
+          "id": "30696610595",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610595.0",
+          "styleBinding": {
+            "layoutType": "default",
+            "paddingBottom": "9"
+          },
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip",
+          "type": "view",
+          "version": "2"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_property\",\"trackInfo\":{\"expoData\":\"intentionCode@app_search_filters^intentionBucket@NONE^offerId@640545040750^atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"uiTrackInfo\":{\"serviceClick\":{\"args\":{\"atmosphere\":\"normal\",\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\",\"useCase\":\"1688detail\",\"role\":\"defaultBuyer\",\"business\":\"default\",\"channel\":\"dsc\",\"offerId\":\"640545040750\",\"scene\":\"default\"}}}},\"data\":{\"offerId\":640545040750,\"title\":\"属性\",\"propUrl\":\"https://air.1688.com/pages/od/1688-drawer-layout/dx4c1wsd4/index.html?spm=a26g8.24198408.0.0.46af4989rkKRh9&__pageId__=1963053&wh_pid=1963053&pha_html=nativeodpop&heightRatio=0.8&bgColor=FFFFFF&bgColorStr=03000000\",\"propsList\":[{\"name\":\"加工定制\",\"show\":false,\"value\":\"是\"},{\"name\":\"型号\",\"show\":false,\"value\":\"a-68\"},{\"name\":\"电机功率\",\"show\":false,\"value\":\"350\"},{\"name\":\"整车外形尺寸\",\"show\":false,\"value\":\"咨询客服\"},{\"name\":\"装载重量\",\"show\":false,\"value\":\"120\"},{\"name\":\"最高车速\",\"show\":false,\"value\":\"25\"},{\"name\":\"发动机型号\",\"show\":false,\"value\":\"咨询客服\"},{\"name\":\"品牌\",\"show\":false,\"value\":\"冰岚\"},{\"name\":\"货号\",\"show\":false,\"value\":\"DR-006\"},{\"name\":\"是否跨境出口专供货源\",\"show\":false,\"value\":\"否\"},{\"name\":\"规格\",\"show\":false,\"value\":\"不含电池\"},{\"name\":\"类别\",\"show\":false,\"value\":\"其他电动车\"},{\"name\":\"电压\",\"show\":false,\"value\":\"36V\"},{\"name\":\"是否专利货源\",\"show\":false,\"value\":\"否\"}]}}",
+          "componentType": "detail_od_property",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_property/1620641633403/detail_od_property.zip",
+            "dinamicTemplateVerion": "12",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_property/1620641633403/detail_od_property.zip"
+          },
+          "id": "30696610272",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610272.0",
+          "styleBinding": {
+            "layoutType": "default",
+            "paddingBottom": "9"
+          },
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_property/1620641633403/detail_od_property.zip",
+          "type": "view",
+          "version": "12"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_general_corner_top\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"data\":\"default\"}}",
+          "componentType": "detail_od_general_corner_top",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_top/1597286172970/detail_od_general_corner_top.zip",
+            "dinamicTemplateVerion": "2",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_top/1597286172970/detail_od_general_corner_top.zip"
+          },
+          "id": "30696610358",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610358.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_top/1597286172970/detail_od_general_corner_top.zip",
+          "type": "view",
+          "version": "2"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{}",
+          "componentType": "detail_od_evaluate",
+          "dataBinding": {
+            "apiName": "mtop.1688.wosc.offerdetail.queryComment",
+            "apiType": "mtop",
+            "apiVersion": "1.0",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false",
+            "param": {
+              "offerId": "${offerId}",
+              "sellerLoginId": "${sellerLoginId}",
+              "sellerUserId": "${sellerUserId}",
+              "spmc": "a262eq.8239380.30696610274.0"
+            }
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_evaluate/1684220625229/detail_od_evaluate.zip",
+            "dinamicTemplateVerion": "37",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_evaluate/1684220625229/detail_od_evaluate.zip"
+          },
+          "id": "30696610274",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610274.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_evaluate/1684220625229/detail_od_evaluate.zip",
+          "type": "view",
+          "version": "37"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{}",
+          "componentType": "detail_od_nextflow_feedback",
+          "dataBinding": {
+            "apiName": "mtop.taobao.widgetService.getJsonComponent",
+            "apiType": "mtop",
+            "apiVersion": "1.0",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false",
+            "param": {
+              "cid": "queryChtPointViewsNew:queryChtPointViewsNew",
+              "methodName": "execute",
+              "params": {
+                "offerId": "${offerId}"
+              }
+            }
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_nextflow_feedback/1597373556748/detail_od_nextflow_feedback.zip",
+            "dinamicTemplateVerion": "6",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_nextflow_feedback/1597373556748/detail_od_nextflow_feedback.zip"
+          },
+          "id": "30696610276",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610276.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_nextflow_feedback/1597373556748/detail_od_nextflow_feedback.zip",
+          "type": "view",
+          "version": "6"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_general_corner_bottom\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"data\":\"default\"}}",
+          "componentType": "detail_od_general_corner_bottom",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip",
+            "dinamicTemplateVerion": "2",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip"
+          },
+          "id": "30696610357",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610357.0",
+          "styleBinding": {
+            "layoutType": "default",
+            "paddingBottom": "9"
+          },
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip",
+          "type": "view",
+          "version": "2"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{}",
+          "componentType": "detail_od_factory_card",
+          "dataBinding": {
+            "apiName": "mtop.alibaba.wcs.getPureComponentData",
+            "apiType": "mtop",
+            "apiVersion": "1.0",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false",
+            "param": {
+              "componentId": "30696610278",
+              "isGray": "false",
+              "param": {
+                "fromPegasus": "true",
+                "isGray": "false",
+                "spmc": "a262eq.8239380.30696610278.0"
+              }
+            }
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_factory_card/1598424207651/detail_od_factory_card.zip",
+            "dinamicTemplateVerion": "6",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_factory_card/1598424207651/detail_od_factory_card.zip"
+          },
+          "id": "30696610278",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610278.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_factory_card/1598424207651/detail_od_factory_card.zip",
+          "type": "view",
+          "version": "6"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{}",
+          "componentType": "detail_od_factory_card_color",
+          "dataBinding": {
+            "apiName": "mtop.taobao.widgetService.getJsonComponent",
+            "apiType": "mtop",
+            "apiVersion": "1.0",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false",
+            "param": {
+              "cid": "offerdetailGetShopInfo:offerdetailGetShopInfo",
+              "methodName": "execute",
+              "params": {
+                "offerId": "${offerId}"
+              }
+            }
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_factory_card_color/1620636555185/detail_od_factory_card_color.zip",
+            "dinamicTemplateVerion": "16",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_factory_card_color/1620636555185/detail_od_factory_card_color.zip"
+          },
+          "id": "306966101161",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.306966101161.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_factory_card_color/1620636555185/detail_od_factory_card_color.zip",
+          "type": "view",
+          "version": "16"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{}",
+          "componentType": "detail_od_factory_card_noimage",
+          "dataBinding": {
+            "apiName": "mtop.alibaba.wcs.getPureComponentData",
+            "apiType": "mtop",
+            "apiVersion": "1.0",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false",
+            "param": {
+              "componentId": "30696610280",
+              "isGray": "false",
+              "param": {
+                "fromPegasus": "true",
+                "isGray": "false",
+                "spmc": "a262eq.8239380.30696610280.0"
+              }
+            }
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_factory_card_noimage/1598424260623/detail_od_factory_card_noimage.zip",
+            "dinamicTemplateVerion": "7",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_factory_card_noimage/1598424260623/detail_od_factory_card_noimage.zip"
+          },
+          "id": "30696610280",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610280.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_factory_card_noimage/1598424260623/detail_od_factory_card_noimage.zip",
+          "type": "view",
+          "version": "7"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{}",
+          "componentType": "detail_od_recommend_list",
+          "dataBinding": {
+            "apiName": "mtop.taobao.widgetService.getJsonComponent",
+            "apiType": "mtop",
+            "apiVersion": "1.0",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false",
+            "param": {
+              "cid": "wirelessOfferDetailRecOfferList:wirelessOfferDetailRecOfferList",
+              "methodName": "execute",
+              "params": {
+                "offerId": "${offerId}",
+                "postCategoryId": "${postCategoryId}",
+                "sellerLoginId": "${sellerLoginId}",
+                "sellerMemberId": "${sellerMemberId}",
+                "spmc": "a262eq.8239380.30696610360.0"
+              }
+            }
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_recommend_list/1615776491999/detail_od_recommend_list.zip",
+            "dinamicTemplateVerion": "15",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_recommend_list/1615776491999/detail_od_recommend_list.zip"
+          },
+          "id": "30696610360",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610360.0",
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_recommend_list/1615776491999/detail_od_recommend_list.zip",
+          "type": "view",
+          "version": "15"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_general_corner_bottom\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"data\":\"default\"}}",
+          "componentType": "detail_od_general_corner_bottom",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "extraInfo": {
+            "androidDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip",
+            "dinamicTemplateVerion": "2",
+            "iosDinamicCdnUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip"
+          },
+          "id": "30696610359",
+          "renderType": "dinamic",
+          "spmc": "a262eq.8239380.30696610359.0",
+          "styleBinding": {
+            "layoutType": "default",
+            "paddingBottom": "9"
+          },
+          "templateUrl": "https://dinamicx.alibabausercontent.com/pub/detail_od_general_corner_bottom/1597286193732/detail_od_general_corner_bottom.zip",
+          "type": "view",
+          "version": "2"
+        },
+        {
+          "arrangement": "full_column",
+          "componentData": "{\"componentType\":\"detail_od_bottom_bar\",\"trackInfo\":{\"expoData\":\"atmosphere@normal^useCase@1688detail^role@defaultBuyer^business@default^channel@dsc^offerId@640545040750^scene@default\"},\"data\":{\"defaultOfferImg\":\"https://cbu01.alicdn.com/img/ibank/O1CN01gt7pNy1sVAMhQ1vsA_!!2497755771-0-cib.jpg\",\"applyCouponUrl\":\"https://h5.m.taobao.com/app/1688activity/pages/odlottery/index.html?sceneType=consign&sellerMemberId=b2b-2497755771&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610241.0&__track_uuid=30696610241\",\"iconBtnItems\":[{\"displayType\":\"img\",\"icon\":\"https://gw.alicdn.com/imgextra/i4/O1CN012UvTmV1PtKUSpiHnx_!!6000000001898-2-tps-132-140.png\",\"link\":\"https://winport.m.1688.com/page/index.html?memberId=b2b-2497755771&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610241.0&__track_uuid=30696610241\",\"type\":\"shop\"},{\"displayType\":\"img\",\"selectedIcon\":\"https://gw.alicdn.com/imgextra/i4/O1CN01zujy201t3yXGklJlk_!!6000000005847-2-tps-132-140.png\",\"icon\":\"https://gw.alicdn.com/imgextra/i1/O1CN01ns43x01ohkrHzhSA7_!!6000000005257-2-tps-132-140.png\",\"type\":\"favor\"},{\"displayType\":\"img\",\"icon\":\"https://gw.alicdn.com/imgextra/i4/O1CN011Lm6fv1v3dUZKuNFJ_!!6000000006117-2-tps-132-140.png\",\"type\":\"wangwang\"}],\"loginId\":\"江城五金50049\",\"winportUrl\":\"https://winport.m.1688.com/page/index.html?memberId=b2b-2497755771&traceId=213e1f6217093760232601028e1c5a&spm=a262eq.8239380.30696610241.0&__track_uuid=30696610241\",\"operationRadius\":\"5\",\"postCategoryId\":\"1036591\",\"operationGap\":\"9\",\"offerUnit\":\"辆\",\"bizScene\":\"order\",\"sellerMemberId\":\"b2b-2497755771\",\"userId\":\"2497755771\",\"sceneKey\":\"\",\"price\":\"720.00\",\"isSaleOut\":false,\"offerId\":640545040750,\"operationItems\":[{\"backImg\":\"\",\"subNameFontSize\":15,\"backColor\":\"#FFECE6\",\"data\":{},\"name\":\"加采购车\",\"dtype\":\"addCart\",\"tempBackColor\":\"\",\"isGrey\":false,\"type\":\"addCart\",\"nameFontSize\":14,\"prefixFontSize\":12,\"textColor\":\"#FF4000\"},{\"backImg\":\"\",\"subNameFontSize\":15,\"backColor\":\"#FF602D\",\"data\":{},\"name\":\"立即下单\",\"dtype\":\"orderNow\",\"tempBackColor\":\"\",\"isGrey\":false,\"type\":\"order\",\"nameFontSize\":14,\"prefixFontSize\":12,\"textColor\":\"#FFFFFF\"}],\"isCHTOffer\":false,\"saledCount\":\"<10\",\"offerTitle\":\"冰岚电动车成人电动自行车电瓶车小型助力车电动脚踏车迷你电动车\"}}",
+          "componentType": "detail_od_bottom_bar",
+          "dataBinding": {
+            "apiType": "local",
+            "loadingMethods": "synchro",
+            "needEcode": "false",
+            "needLogin": "false"
+          },
+          "id": "30696610241",
+          "renderType": "native",
+          "spmc": "a262eq.8239380.30696610241.0",
+          "styleBinding": {
+            "layoutType": "bottom"
+          },
+          "type": "view",
+          "version": "0.0.1"
+        }
+      ],
+      "debugInfo": {},
+      "enableDebug": "false",
+      "extraInfo": {
+        "ossId": "0td591b",
+        "pageRouterScene": "PEGASUS",
+        "pageTimestamp": "1647224683166"
+      },
+      "firstScreenCount": "8",
+      "name": "主客商品详情-B类-现货",
+      "pageId": "306966",
+      "pageLayoutType": "list",
+      "pageUrl": "https://cybert.m.1688.com/page/index.html?pageId=306966&biz=default&gray=false&renderDynamicData=true&isRenderData=true&offerId=640545040750&appKey=12574478&userId=0&version=1.0&urlParam=",
+      "renderType": "native,dinamic,",
+      "spma": "a262eq",
+      "spmb": "a262eq.8239380.0.0",
+      "styleBinding": "{}",
+      "title": "主客商品详情-B类-现货"
+    },
+    "orderParamModel": {
+      "carOrderParam": {
+        "addCartParam": {
+          "cartType": ""
+        },
+        "beginNum": "1",
+        "canBookedAmount": "10000",
+        "flow": "general",
+        "limitParam": {},
+        "mixParam": {
+          "mixAmount": "1000",
+          "mixBegin": "0",
+          "mixNum": "1",
+          "shopMixNum": "2147483647",
+          "supportMix": "true"
+        },
+        "saledCount": "0",
+        "skuParam": {
+          "skuPriceType": "rangePrice",
+          "skuRangePrices": [
+            {
+              "beginAmount": "1",
+              "price": "720.00",
+              "startAmount": "1"
+            }
+          ]
+        }
+      },
+      "orderParam": {
+        "addCartParam": {
+          "cartType": ""
+        },
+        "beginNum": "1",
+        "canBookedAmount": "10000",
+        "flow": "general",
+        "limitParam": {},
+        "mixParam": {
+          "mixAmount": "1000",
+          "mixBegin": "0",
+          "mixNum": "1",
+          "shopMixNum": "2147483647",
+          "supportMix": "true"
+        },
+        "saledCount": "0",
+        "skuParam": {
+          "skuPriceType": "rangePrice",
+          "skuRangePrices": [
+            {
+              "beginAmount": "1",
+              "price": "720.00",
+              "startAmount": "1"
+            }
+          ]
+        }
+      }
+    },
+    "preSaleModel": null,
+    "reservePeriodModel": null,
+    "reserveScaleModel": null,
+    "shareModel": {
+      "companyName": "永康市城关江城五金工具厂",
+      "imageUrls": [],
+      "offerId": "640545040750",
+      "offerTag": {},
+      "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gt7pNy1sVAMhQ1vsA_!!2497755771-0-cib.jpg",
+      "subTitle": "运费险、少货必退...\n我在阿里巴巴发现了一个不错的商品，赶快来看看吧～",
+      "subject": "冰岚电动车成人电动自行车电瓶车小型助力车电动脚踏车迷你电动车"
+    },
+    "skuCalcParam": {
+      "canSkuCalculate": "false"
+    },
+    "skuModel": {
+      "extraInfo": {
+        "freightInfo": {
+          "amount": "10",
+          "buyerProtectionScene": "dsc",
+          "freeEndAmount": "-1",
+          "link": "http://popups.m.1688.com/index.htm?version=2.0&contentType=h5&orientation=fromBottom&widthRatio=1&heightRatio=0.8&showNow=true&contentUrl=https%3A%2F%2Fair.1688.com%2Fapp%2Fctf-m-page%2Faddress-manage%2Fdelivery-to.html%3FisNative%3D1%26isPopup%3D1%26heightRatio%3D0.8%26traceId%3D2133dac316764415331323170e58c1%26spm%3Da262eq.8239380.591899106619.0%26__track_uuid%3D591899106619%26cornerRadius%3D15x15x0x0",
+          "offerId": "640545040750",
+          "officialLogistics": "false",
+          "protectionInfoList": [
+            {
+              "description": "卖家为您购买的商品投保退货运费险（运费险生效以下单后的保单结果为准）",
+              "logoUrl": "https://cbu01.alicdn.com/cms/upload/2016/926/836/2638629_532208266.png",
+              "logoUrl_16_16": "https://cbu01.alicdn.com/cms/upload/2016/504/795/2597405_532208266.gif",
+              "logoUrl_64_64": "https://cbu01.alicdn.com/cms/upload/2016/926/836/2638629_532208266.png",
+              "serviceCode": "yfx_s",
+              "serviceLink": "https://help.1688.com/page/knowledge?pageId=6&category=1000080757&knowledge=1064628913&language=zh",
+              "serviceName": "运费险",
+              "type": "red"
+            },
+            {
+              "description": "“少货必退” 是1688平台少货必赔升级服务。针对平台L2～L6买家，符合一定退款金额范围，买家针对少货类原因发起的售中或者售后仅退款申请，商家必须在24小时内响应退款",
+              "logoUrl": "https://img.alicdn.com/imgextra/i1/O1CN01mONsdW1EIizcYlvhz_!!6000000000329-2-tps-64-64.png",
+              "logoUrl_16_16": "https://img.alicdn.com/imgextra/i2/O1CN01YEEmMP1dp7Os7LIbh_!!6000000003784-2-tps-17-16.png",
+              "logoUrl_64_64": "https://img.alicdn.com/imgextra/i1/O1CN01mONsdW1EIizcYlvhz_!!6000000000329-2-tps-64-64.png",
+              "longDescription": "如卖家未能在指定期间内提供相关证据材料，或相关证据材料明显无效，阿里巴巴判定买家赔付申请成立，卖家同意按照本协议之约定向买家赔偿其受到的损失，赔偿金额为买家已实际支付的短少产品价款（仅为配件短少时亦应就整套产品价款进行赔偿）。此等情形下，阿里巴巴有权动用卖家的保证金或通知支付宝公司自卖家的支付宝账户直接扣除相应金额款项先行赔付给买家。",
+              "serviceCode": "shbp",
+              "serviceLink": "https://show.1688.com/vip/other/bxgey8zy.html?spm=a2637k.pagelist.0.0.375e370aEmLeCf&__pageId__=227612&cms_id=227612",
+              "serviceName": "少货必退",
+              "type": "red"
+            },
+            {
+              "agreeDeliveryHours": "48",
+              "buyerDescription": "晚发必赔",
+              "description": "若商家未按订单约定的时间发货，您可以在订单详情申请赔付",
+              "logoUrl": "https://cbu01.alicdn.com/cms/upload/2015/460/315/2513064_1964054271.png",
+              "logoUrl_16_16": "https://cbu01.alicdn.com/cms/upload/2015/177/505/2505771_1964054271.png",
+              "logoUrl_64_64": "https://cbu01.alicdn.com/cms/upload/2015/460/315/2513064_1964054271.png",
+              "longDescription": "卖家在承诺买家保障服务的基础上，向买家提供“48小时发货延必赔”的服务。在买家通过支付宝担保交易完成付款或通过货到付款下单成功后，卖家承诺在买家支付成功起48小时内发货。如卖家未履行前述承诺，买家可在指定期限内发起维权，并申请赔付。",
+              "serviceCode": "ssbxsfh",
+              "serviceLink": "https://show.1688.com/vip/other/1bpmrma4.html?__pageId__=227845&cms_id=227845",
+              "serviceName": "晚发必赔",
+              "type": "protect"
+            },
+            {
+              "buyerDescription": "7天无理由退货",
+              "description": "满足相应条件下，卖家需支持7天无理由，其中定制订单不支持“7天无理由退货”。",
+              "logoUrl": "https://img.alicdn.com/imgextra/i2/O1CN01NyKX2m1pKgXu54Rve_!!6000000005342-2-tps-64-64.png",
+              "logoUrl_16_16": "https://img.alicdn.com/imgextra/i1/O1CN01YIe8Lk1vxyDWgdkPQ_!!6000000006240-2-tps-16-16.png",
+              "logoUrl_64_64": "https://img.alicdn.com/imgextra/i2/O1CN01NyKX2m1pKgXu54Rve_!!6000000005342-2-tps-64-64.png",
+              "longDescription": "卖家承诺买家签收货物后7天内，在“商品完好”的情形下，向买家提供退货服务。",
+              "serviceCode": "qtwlybt",
+              "serviceName": "7天无理由退货",
+              "type": "protect"
+            },
+            {
+              "buyerDescription": "极速退款",
+              "description": "在符合一定的退款申请原因、时效和退款金额范围内，可享受0秒退款服务。",
+              "logoUrl": "https://img.alicdn.com/imgextra/i3/O1CN01dcTxhB1f7j6hzsS7s_!!6000000003960-2-tps-64-64.png",
+              "logoUrl_16_16": "https://img.alicdn.com/imgextra/i4/O1CN01tnZSFq1Gfk8BH5kkH_!!6000000000650-2-tps-16-16.png",
+              "logoUrl_64_64": "https://img.alicdn.com/imgextra/i3/O1CN01dcTxhB1f7j6hzsS7s_!!6000000003960-2-tps-64-64.png",
+              "longDescription": "“在符合一定的退款申请原因、时效和退款金额范围内，可享受0秒退款服务。",
+              "serviceCode": "jstk_p",
+              "serviceLink": "https://show.1688.com/vip/other/2csfppfe.html?spm=a2637k.pagelist.0.0.7c69370aqRcuVa&__pageId__=227465&cms_id=227465",
+              "serviceName": "极速退款",
+              "type": "protect"
+            }
+          ],
+          "queryFlag": "true",
+          "receiveAddress": null,
+          "receiveAddressCode": null,
+          "sellerUserId": "2497755771",
+          "sendAddressCode": "12554778",
+          "sendDivisionCode": "330784",
+          "skuWeight": {},
+          "templateId": "3040257",
+          "unitWeight": 50
+        },
+        "onHandPrice": null,
+        "reserveLightSku": {
+          "actionTxt": "去定制",
+          "actionTxtColor": "#1263FF",
+          "actionTxtSize": "13",
+          "dialogContent": "库存不足，为您提供订货服务，最快7天发货",
+          "iconUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Y98EtJ1PokXc1sdB1_!!6000000001888-2-tps-22-40.png",
+          "linkUrl": "https://air.1688.com/pages/od/1688-drawer-layout/dw4m6rndl/index.html?__pageId__=2023290&wh_pid=2023290&skuFullScreen=true&heightRatio=0.9"
+        },
+        "skuFeatures": {}
+      },
+      "skuBtnDisType": "1",
+      "skuButtonList": [
+        {
+          "isGrey": "false",
+          "name": "加采购车",
+          "type": "addCart"
+        },
+        {
+          "isGrey": "false",
+          "name": "立即下单",
+          "type": "order"
+        }
+      ],
+      "skuInfoMap": {
+        "不含电池": {
+          "canBookCount": "10000",
+          "promotionSku": "false",
+          "saleCount": "0",
+          "skuId": "5102490058073",
+          "specAttrs": "不含电池",
+          "specId": "3a15c359d8079e7498e77fb6912c4e3e"
+        }
+      },
+      "skuInfoMapAddCar": {
+        "不含电池": {
+          "canBookCount": "10000",
+          "promotionSku": "false",
+          "saleCount": "0",
+          "skuId": "5102490058073",
+          "specAttrs": "不含电池",
+          "specId": "3a15c359d8079e7498e77fb6912c4e3e"
+        }
+      },
+      "skuInfoMapOriginal": {
+        "不含电池": {
+          "canBookCount": "10000",
+          "promotionSku": "false",
+          "saleCount": "0",
+          "skuId": "5102490058073",
+          "specAttrs": "不含电池",
+          "specId": "3a15c359d8079e7498e77fb6912c4e3e"
+        }
+      },
+      "skuPriceScale": "￥720.00",
+      "skuPriceScaleAddCar": "￥720.00",
+      "skuPriceScaleOriginal": "￥720.00",
+      "skuProps": [
+        {
+          "fid": "1234",
+          "prop": "规格",
+          "value": [
+            {
+              "name": "不含电池"
+            }
+          ]
+        }
+      ]
+    },
+    "tempModel": {
+      "addCartUrl": "",
+      "aggregatePromotionInfo": [],
+      "applyCouponUrl": "https://h5.m.taobao.com/app/1688activity/pages/odlottery/index.html?sceneType=consign&sellerMemberId=b2b-2497755771",
+      "businessType": "default",
+      "canApplyChtCoupon": "true",
+      "chtOffer": "false",
+      "companyName": "永康市城关江城五金工具厂",
+      "consignOffer": "false",
+      "defaultOfferImg": "https://cbu01.alicdn.com/img/ibank/O1CN01gt7pNy1sVAMhQ1vsA_!!2497755771-0-cib.jpg",
+      "favoriteOffer": "false",
+      "offerId": "640545040750",
+      "offerTitle": "冰岚电动车成人电动自行车电瓶车小型助力车电动脚踏车迷你电动车",
+      "offerUnit": "辆",
+      "postCategoryId": "1036591",
+      "price": "720.00",
+      "saleOut": "false",
+      "saledCount": "0",
+      "saledCountStr": "<10",
+      "sceneKey": "",
+      "selectedScene": "order",
+      "sellerLoginId": "江城五金50049",
+      "sellerMemberId": "b2b-2497755771",
+      "sellerUserId": "2497755771",
+      "sk": "",
+      "topCategoryId": "122916002",
+      "winportUrl": "https://winport.m.1688.com/page/index.html?memberId=b2b-2497755771"
+    },
+    "topBarModel": {
+      "topNavItems": [
+        {
+          "tabKey": "product",
+          "tabName": "批发"
+        },
+        {
+          "tabKey": "detail",
+          "tabName": "详情"
+        },
+        {
+          "tabKey": "recommend",
+          "tabName": "推荐",
+          "tabUrl": "https://cybert.m.1688.com/discovery/qw91poky/index.html?sceneName=chimera_6958&offerId=640545040750&bizScene=shopRec&memberId=b2b-2497755771&pageLayoutType=grid"
+        }
+      ]
+    }
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/1688-e-commerce-api-fbd7"
+}

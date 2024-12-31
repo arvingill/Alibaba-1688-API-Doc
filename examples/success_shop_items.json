@@ -1,0 +1,390 @@
+{
+  "code": 0,
+  "credits": 0.005,
+  "result": {
+    "content": {
+      "appdata": {
+        "count": "20",
+        "hasMore": "true",
+        "isDiy": "false",
+        "isNative": "true",
+        "isUserDefined": "false",
+        "mobileOfferFilter": "false",
+        "offerType": "0",
+        "pageIndex": "1",
+        "showGap": "true",
+        "showTitle": "true",
+        "showType": "common",
+        "sortType": "wangpu_score"
+      },
+      "isPicAuth": "false",
+      "isPriceAuth": "false",
+      "offerModuleList": [
+        {
+          "alipaySupport": "false",
+          "bookedCount": "164",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=679659564956",
+          "dotInfoMap": {
+            "expo_data": "object_id@679659564956^object_type@offer"
+          },
+          "id": "679659564956",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tT0cOV1sVAUldPF6F_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "1270.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "外贸出口跨境小型电动三轮车老年人买菜代步电动车家用三轮车批发"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "115",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=654043522491",
+          "dotInfoMap": {
+            "expo_data": "object_id@654043522491^object_type@offer"
+          },
+          "id": "654043522491",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IjetEx1sVAObDMWca_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "2280.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "冰岚新款电动三轮车成人老年买菜代步车迷你小型休闲电动三轮定制"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "56",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=737410085772",
+          "dotInfoMap": {
+            "expo_data": "object_id@737410085772^object_type@offer"
+          },
+          "id": "737410085772",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lGl3Xu1sVAZTDdmk5_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "680.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "新款两轮电动车成人通勤代步电瓶车迷你小型电动自行车小电驴批发"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "46",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=653478286049",
+          "dotInfoMap": {
+            "expo_data": "object_id@653478286049^object_type@offer"
+          },
+          "id": "653478286049",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01l8jyis1sVAOadbAOD_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "780.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "加工定制小海豚电动滑板车成人代步车城市折叠两轮电动自行车厂家"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "199",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=648145081870",
+          "dotInfoMap": {
+            "expo_data": "object_id@648145081870^object_type@offer"
+          },
+          "id": "648145081870",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cB22Gd1sVAOak3Jxq_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "860.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "跨境电动车成人代步车小电驴可折叠两轮电动自行车电瓶车批发"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "39",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=666561818459",
+          "dotInfoMap": {
+            "expo_data": "object_id@666561818459^object_type@offer"
+          },
+          "id": "666561818459",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DZNguX1sVAP4SOBBa_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "1980.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "冰岚电动三轮车家用小型亲子电动车女士接送孩子老年人折叠电瓶车"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "1",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=639298100194",
+          "dotInfoMap": {
+            "expo_data": "object_id@639298100194^object_type@offer"
+          },
+          "id": "639298100194",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RdorOF1sVAMFe62e8_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "4000.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "厂家直供代步车电动老人残疾人电瓶车老年人小型可折叠休闲四轮车"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "0",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=752337469553",
+          "dotInfoMap": {
+            "expo_data": "object_id@752337469553^object_type@offer"
+          },
+          "id": "752337469553",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WkCKP31sVAbXOWgGS_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "4990.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "外贸出口电磁刹式电动四轮车老年人成人休闲代步车家用电瓶车批发"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "22",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=674567598233",
+          "dotInfoMap": {
+            "expo_data": "object_id@674567598233^object_type@offer"
+          },
+          "id": "674567598233",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01e3MW1f1sVARnUZh0F_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "1680.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "新款电动小三轮车家用电瓶车小型老人代步车跨境外贸专供电三轮"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "0",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=680208233469",
+          "dotInfoMap": {
+            "expo_data": "object_id@680208233469^object_type@offer"
+          },
+          "id": "680208233469",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LKCn6u1sVASoO28Lw_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "1169.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "冰岚新款外贸电动三轮车老人接送孩子家用小型代步车休闲电动三轮"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "27",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=654330614904",
+          "dotInfoMap": {
+            "expo_data": "object_id@654330614904^object_type@offer"
+          },
+          "id": "654330614904",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LCQn5E1sVAOnZeQRU_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "3780.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "冰岚电动四轮车老年人买菜休闲代步四轮车电瓶车厂家跨境外贸专供"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "0",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=752197100278",
+          "dotInfoMap": {
+            "expo_data": "object_id@752197100278^object_type@offer"
+          },
+          "id": "752197100278",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01l6tL1R1sVAbXROZk3_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "4680.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "厂家直供电动四轮车老人买菜代步电瓶车电磁自动刹车防溜坡电瓶车"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "1",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=743387856725",
+          "dotInfoMap": {
+            "expo_data": "object_id@743387856725^object_type@offer"
+          },
+          "id": "743387856725",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01S3RA9P1sVAaHgbLkD_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "3280.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "新款电动三轮车老年人购物代步车残疾人电动轮椅车可折叠电瓶车"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "0",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=703986392255",
+          "dotInfoMap": {
+            "expo_data": "object_id@703986392255^object_type@offer"
+          },
+          "id": "703986392255",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mVhvPE1sVAUbEgMSN_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "3888.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "老人代步车双人电动汽车残疾人车四轮家用小型慢速老年电瓶助力车"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "8",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=680761373288",
+          "dotInfoMap": {
+            "expo_data": "object_id@680761373288^object_type@offer"
+          },
+          "id": "680761373288",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017feCvB1sVARxkrDYI_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "1760.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "跨境外贸专供新款电动小三轮车家用电瓶车小型老人代步车电三轮"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "2",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=692452694433",
+          "dotInfoMap": {
+            "expo_data": "object_id@692452694433^object_type@offer"
+          },
+          "id": "692452694433",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01sk9sVK1sVAUOiPPTv_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "1590.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "新款冰岚电动三轮车家用老年人购物代步车小型折叠迷你三轮电瓶车"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "18",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=682413029365",
+          "dotInfoMap": {
+            "expo_data": "object_id@682413029365^object_type@offer"
+          },
+          "id": "682413029365",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011tqbBh1sVATRDXP71_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "4.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "电动车配件大全电动自行车各类配件大全电瓶车轮毂 充电器 挡泥板"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "2",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=678189313491",
+          "dotInfoMap": {
+            "expo_data": "object_id@678189313491^object_type@offer"
+          },
+          "id": "678189313491",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dnqzsn1sVAP5vuFgl_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "2580.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "加工定制跨境外贸小型电动车接孩子成人家用老人代步三轮电瓶车"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "42",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=674493772800",
+          "dotInfoMap": {
+            "expo_data": "object_id@674493772800^object_type@offer"
+          },
+          "id": "674493772800",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nFLmQo1sVAS4m0q4x_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "5.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "电动车配件轮胎挡板液晶显示带锁转把铅酸、锂电充电器硅胶防滑轮"
+        },
+        {
+          "alipaySupport": "false",
+          "bookedCount": "10",
+          "detailUrl": "https://detail.m.1688.com/page/index.html?offerId=703629073563",
+          "dotInfoMap": {
+            "expo_data": "object_id@703629073563^object_type@offer"
+          },
+          "id": "703629073563",
+          "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ezo2Yv1sVAVZCByia_!!2497755771-0-cib.jpg",
+          "isPictureAuthOffer": "false",
+          "isPriceAuthOffer": "false",
+          "mixWholeSale": "false",
+          "mobileOffer": "false",
+          "price": "2688.00",
+          "processingOffer": "false",
+          "thirtySaleQuantity": "0",
+          "title": "江城老年人成人三轮代步车家用买菜出行大功率稳定安全休闲电瓶车"
+        }
+      ],
+      "selfLogin": "false",
+      "totalCount": "44"
+    },
+    "dataType": "moduleData"
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/1688-e-commerce-api-fbd7"
+}

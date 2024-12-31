@@ -1,0 +1,6 @@
+{
+  "code": 1001,
+  "credits": 0,
+  "msg": "item_id Input should be a valid integer, unable to parse string as an integer",
+  "tip": "You can read document or contact provider: https://www.idatariver.com/zh-cn/project/1688-e-commerce-api-fbd7"
+}
